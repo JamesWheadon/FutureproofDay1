@@ -5,3 +5,8 @@ git status - shows git status of the cloned repository, highlights changes
 git add . stages changes
 git commit -m "message" - commits changes to repository. make messages in present tense
 git push - pushes repository to github.
+git branch - shows branches in repo, highlighted branch is current branch
+git checkout (branch name) - move to branch
+git checkout -b (branch name) - create a new branch
+
+Pull request works between branches to update main with work done on a branch.
