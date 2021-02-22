@@ -3,6 +3,5 @@ GitHub - storage system for repositories.
 git clone (SSH option) - clones fork down in to C:/user/james
 git status - shows git status of the cloned repository, highlights changes
 git add . stages changes
-git commit -m "message" - commits changes to repository
+git commit -m "message" - commits changes to repository. make messages in present tense
 git push - pushes repository to github.
-git init - makes a new repository locally, can be added to github as an existing repository
