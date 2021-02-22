@@ -1,0 +1,7 @@
+Git - version control, tracks changes.
+GitHub - storage system for repositories.
+git clone (SSH option) - clones fork down in to C:/user/james
+git status - shows git status of the cloned repository, highlights changes
+git add . stages changes
+git commit -m "message" - commits changes to repository
+git push - pushes repository to github.
